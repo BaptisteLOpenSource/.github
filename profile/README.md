@@ -1,8 +1,18 @@
+<p align="center">
+  <img src="logo.png" alt="Logo Baptiste Dechamp" width="120">
+</p>
+
 <h1 align="center">BaptisteLOpenSource</h1>
 
 <p align="center">
-  Les projets open source de <a href="https://github.com/BaptisteLeDev">@BaptisteLeDev</a>.<br>
+  Les projets open source de <strong>Baptiste Dechamp</strong>.<br>
   Des outils simples, auto-hébergeables, sous licence MIT.
+</p>
+
+<p align="center">
+  <a href="https://github.com/BaptisteLeDev">Profil GitHub</a> ·
+  <a href="https://github.com/BaptisteLeDev/Portfolio">Portfolio</a> ·
+  <a href="https://baptisteledev.fr">baptisteledev.fr</a>
 </p>
 
 ## Projets
