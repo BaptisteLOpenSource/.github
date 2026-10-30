@@ -11,8 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/BaptisteLeDev">Profil GitHub</a> ·
-  <a href="https://github.com/BaptisteLeDev/Portfolio">Portfolio</a> ·
-  <a href="https://baptisteledev.fr">baptisteledev.fr</a>
+  <a href="https://baptisteledev.fr">Portfolio</a>
 </p>
 
 ## Projets
